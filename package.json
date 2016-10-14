@@ -1,0 +1,20 @@
+{
+  "name": "agenda-node",
+  "version": "1.0.0",
+  "description": "Agenda in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Rios",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "mongoose": "^4.6.3"
+  }
+}
